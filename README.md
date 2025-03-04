@@ -1,5 +1,4 @@
-# No_Surprises_Act_idr
-No Surprises Act - Independent Dispute Resolution Support
+# No Surprises Act - Independent Dispute Resolution Support
 # IDR Support System with Groq AI
 
 This Python script implements an Independent Dispute Resolution (IDR) support system for healthcare billing disputes under the No Surprises Act. It leverages the Groq API for generative AI to analyze claim data and provide insights for IDR consideration.
